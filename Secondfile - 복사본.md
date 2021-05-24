@@ -1,6 +1,6 @@
 # 서버에서 제공하는 이미지
 
-절대경로:
+절대경로: 깃헙 데스크톱 실험중
 
 ![](https://github.com/qkboo/testtest/blob/master/0004637710_001_20210512155403795.jpg)
 
